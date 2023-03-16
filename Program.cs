@@ -3,4 +3,3 @@ Console.WriteLine("He, World!");
 Console.WriteLine("He, World!");
 Console.WriteLine("He, World!");
 Console.WriteLine("He, World!");
-Console.WriteLine("He, World!");
